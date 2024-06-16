@@ -1,4 +1,7 @@
 public class Calculator {
+
+    private status = 0;
+    
     public int add(int a, int b) {
         return a + b;
     }
